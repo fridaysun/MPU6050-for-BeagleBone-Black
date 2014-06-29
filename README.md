@@ -6,11 +6,11 @@ Hardware use (tested):
  * 2 6-AXIS sensor board (GY-521 from ITGMPU)
 
 Connection:
-Name BBB GY-521 Remark
-GND P9-1 GND Ground
-VCC P9-7 VCC Power Vcc-3.3v
-SDA P9-20 SDA I2C-SDA
-SCL P9-19 SCL I2C-SCL
+* Name BBB GY-521 Remark
+* GND P9-1 GND Ground
+* VCC P9-7 VCC Power Vcc-3.3v
+* SDA P9-20 SDA I2C-SDA
+* SCL P9-19 SCL I2C-SCL
 
 Initial release of MPU6050 test application of BeagleBone Black
  * Checked funnction:
