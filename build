@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Building the MPU6050 driver"
+
+g++ -lrt TestApplication.cpp BBB_I2C.cpp MPU6050.cpp -o Test_MPU6050
